@@ -1,0 +1,8 @@
+{
+  "name": "SchoolSnap Studio",
+  "description": "AI-powered design agent for schools. Create professional branding assets in seconds.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
